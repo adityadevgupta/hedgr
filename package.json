@@ -1,8 +1,8 @@
 {
-  "name": "ionic-parse-starter",
+  "name": "hedgr",
   "version": "1.1.0",
-  "repository": "https://github.com/alevicki/ionic-parse-starter",
-  "description": "ionic-parse-starter: An Ionic project",
+  "repository": "https://github.com/adityadevgupta/hedgr.co",
+  "description": "hedgr",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",

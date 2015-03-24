@@ -1,11 +1,11 @@
 // Ionic Parse Starter App
 
 // angular.module is a global place for creating, registering and retrieving Angular modules
-// 'ionicParseApp' is the name of this angular module example (also set in a <body> attribute in index.html)
+// 'hedgr' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
-// 'ionicParseApp.controllers' is found in controllers.js
-angular.module('ionicParseApp',
-        [ 'ionic', 'ionicParseApp.controllers' ]
+// 'hedgr.controllers' is found in controllers.js
+angular.module('hedgr',
+        [ 'ionic', 'hedgr.controllers' ]
     )
     .config(function($stateProvider, $urlRouterProvider) {
 

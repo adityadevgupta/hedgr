@@ -1,4 +1,4 @@
-angular.module('ionicParseApp.controllers', [])
+angular.module('hedgr.controllers', [])
 
 .controller('AppController', function($scope, $state, $rootScope, $ionicHistory, $stateParams) {
     if ($stateParams.clear) {
